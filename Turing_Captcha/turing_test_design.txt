@@ -1,0 +1,18 @@
+
+TURING TEST – DESIGN AND ARCHITECTURE
+
+The Turing Test was proposed by Alan Turing in 1950 to determine whether a machine can demonstrate human-like intelligence.
+
+Architecture Components:
+1. Human Judge
+2. Human Participant
+3. AI System
+4. Text Communication Interface
+
+Working:
+The human judge communicates with both the human participant and the AI system through a text interface.
+The judge does not know which participant is the machine. If the judge cannot reliably distinguish
+the machine from the human based on the responses, the machine is considered to have passed the Turing Test.
+
+Purpose:
+The goal of the Turing Test is to evaluate whether a machine can mimic intelligent human conversation.
